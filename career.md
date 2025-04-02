@@ -22,8 +22,16 @@ title: Research Career
   * Title: Polygenic risk score and age at onset in breast cancer: Insights from the Korean population
 * Poster presentation during 2023 International Conference of the Korean Dementia Association, Busan, South Korea
   * Title: Sex-specific effects of MIND diet on dementia risk: Insights from UK Biobank data with usual intake estimation
+* Presentation during 2024 GENESIS-K Genome Analysis Workshop, Seoul, South Korea
+  * Title: Study design strategies integrating public databases such as GWAS Catalog/PGS Catalog and hands-on demonstration of catalog use
 * Oral presentation during 2024 Korean Dementia Association, Seoul, South Korea
   * Title: Polygenic risk score as a modifier of the effects of multidomain interventions (Received Oral Presentation Award)
+
+<br/>
+
+# Fellowships
+
+* BK21 Outstanding Research Talent Fellowship, Seoul National University, 2023 Fall
 
 <br/>
 
