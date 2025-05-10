@@ -26,6 +26,8 @@ title: Research Career
   * Title: Study design strategies integrating public databases such as GWAS Catalog/PGS Catalog and hands-on demonstration of catalog use
 * Oral presentation during 2024 Korean Dementia Association, Seoul, South Korea
   * Title: Polygenic risk score as a modifier of the effects of multidomain interventions (Received Oral Presentation Award)
+* Oral presentation during 2025 International Conference of the Korean Dementia Association & 19th International Congress of the Asian Society Against Dementia, Seoul, South Korea
+  * Title: Ultra-Processed Food Intake and Dementia Risk: Metabolomic Insights and Mediation Effects 
 
 <br/>
 
