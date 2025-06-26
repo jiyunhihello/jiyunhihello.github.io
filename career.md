@@ -33,7 +33,8 @@ title: Research Career
 
 # Fellowships
 
-* BK21 Outstanding Research Talent Fellowship, Seoul National University, 2023 Fall
+* BK21 Outstanding Research Talent Fellowship, Seoul National University, Fall 2023
+* Haewon Future Public Health Scholars Fellowship, Seoul National University, Spring 2025
 
 <br/>
 
